@@ -7,6 +7,7 @@ description: This is just another page
 ## Welcome to another page
 
 _yay_
-Is this reall how easy it is to use ruby on rails?
+
+Is this really how easy it is to use ruby on rails?
 
 [back](./)
